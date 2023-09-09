@@ -3,4 +3,7 @@ public class Hat {
     // line
     // more
     //more
+
+    // more more
+    // more more
 }
